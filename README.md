@@ -35,9 +35,8 @@ I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
 ## My Screenshot
-<!-- ![](./public/assets/images/Zight%202024-5-29%20at%2010.17.25%20PM.jpeg)
-![](./public/assets/images/Zight%202024-5-29%20at%2010.18.10%20PM.jpeg)
-![](./public/assets/images/Zight%202024-5-29%20at%2010.28.59%20PM.jpeg) -->
+![](./assets/images/Zight%202024-6-5%20at%204.41.37%20PM.jpeg)
+
 
 ## Technologies Used
 
