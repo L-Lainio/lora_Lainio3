@@ -48,4 +48,3 @@ Have additional questions? Click the links below to reach me through my GitHub a
 
 [Link to Github](https://github.com/L-Lainio)
 
-[Email](mailto:arollainio@gmail.com">arollainio@gmail.com)
